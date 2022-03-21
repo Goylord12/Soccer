@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Locale Application</string>
+    <string name="hello_world">Я гей!</string>
+    <string name="button">Point</string>
+    <string name="point">Очко</string>
+</resources>
